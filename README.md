@@ -12,6 +12,7 @@ A quick view for starting up the project
 ###3. Setting up flavor to run:
   - For Android Studio users: edit on `Edit Configuration`, choose entry point match with the flavor you want, add into flavor field chosen flavor.
   - For Visual Studio Code user: create a file in `.vscode/launch.json` and config like below
+  ```
     {
     "version": "0.2.0",
     "configurations": [
@@ -47,6 +48,7 @@ A quick view for starting up the project
         }
     ]
   }
+  ```
 
 ###4. Build APK for Android testing (Firebase Distribution)
 Run the command: `flutter build apk --flavor <flavor_value> -t lib/main.<flavor_value>.dart`
