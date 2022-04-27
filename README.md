@@ -5,6 +5,7 @@ A quick view for starting up the project
 ## Getting Started
 
 ###1. Choosen state management: GetX
+
 ###2. Setting up project:
   - For fast generate assets file, I created a shorcut to run it. Everytime new assets added, run `./generated_build.sh`.
   - For generate string, after add string to `assets/translation/en-US` , run the command above.
@@ -51,5 +52,6 @@ A quick view for starting up the project
   ```
 
 ###4. Build APK for Android testing (Firebase Distribution)
-Run the command: `flutter build apk --flavor <flavor_value> -t lib/main.<flavor_value>.dart`
-Available flavors: `dev` / `staging` / `prod`
+
+ - Run the command: `flutter build apk --flavor <flavor_value> -t lib/main.<flavor_value>.dart`
+ - Available flavors: `dev` / `staging` / `prod`
