@@ -2,8 +2,6 @@ import 'package:freezed_annotation/freezed_annotation.dart';
 
 part 'demo_modal.freezed.dart';
 
-part 'demo_modal.g.dart';
-
 @freezed
 class DemoModal with _$DemoModal {
   const DemoModal._();

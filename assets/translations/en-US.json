@@ -87,5 +87,12 @@
     "initialGoalDesc": "access more career and education resources.",
     "initialChatDesc": "access Kai,\nour digital guide-bot.",
     "initialNotificationDesc": "access helpful tips and reminder."
+  },
+  "bottomNav": {
+    "discover": "Discover",
+    "interest": "Interest",
+    "goal": "Goal",
+    "chat": "Chat",
+    "notification": "Notification"
   }
 }
