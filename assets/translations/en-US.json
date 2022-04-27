@@ -1,0 +1,91 @@
+{
+  "getStart" : "Let's Get Started!",
+  "signUp" : "I'm New Here",
+  "signIn" : "Log In",
+  "signUpAction": "Sign Up",
+  "loginHelp" : "Need help? We're here.",
+  "welcomeBack" : "Welcome Back!",
+  "email" : "Email",
+  "password" : "Password",
+  "forgotPassword" : "Forgot your password?",
+  "loginFailed" : {
+    "missingEmailPassword" : "Please include your email address and password to log in.",
+    "invalidEmailFormat" : "Enter a valid email address.",
+    "exception": "There was an error with your email or password combination. Please try again."
+  },
+  "next": "Next",
+  "firstName": "First Name",
+  "lastName": "Last Name",
+  "register": {
+    "enterEmail": "Enter your email",
+    "niceToMeetYou": "It's great to meet you, {}!\nNow, let's set up your login.",
+    "descEmailAddress": "What's your email address?",
+    "descPassword": "Thanks!\nEvery login needs a password.",
+    "whatsYour": "What's your?",
+    "whatsYourName": "What's your name?",
+    "reminderPassword": "Make sure it's at least 8 characters long\n and has at least 1 symbol and 1 number.",
+    "createAccount": "Create Account",
+    "termAndPrivacy": {
+      "part1": "By tapping Create Account, you agree to our\n",
+      "part2": " and "
+    },
+    "emptyField": "Enter at least one character",
+    "invalidEmailFormat": "Enter a valid email address.",
+    "invalidPasswordFormat": "Your password does not meet the requirements stated below. Please enter a new password.",
+    "confirmDialogDesc": {
+      "part1": "By proceeding I acknowledge that this app is operated by Strada Education Network, Inc. (\"Strada\"), and affiliate of the Council of Adult and Experiential Learning (\"CAEL\"), and not McDonald's, and that in using this app I am interacting with and sharing my personal information with Strada and CAEL. For more information, please see Strada's ",
+      "part2": " and "
+    },
+    "educationLevel": "What's your education level?",
+    "selectEducationLevel": "Select education level",
+    "agree": "I Agree",
+    "areWorkingAtMcDonald": "Are you working at a\nMcDonald's restaurant?",
+    "workLocationDesc": "Tell us about your current role so that we can personalize your profile and skill. Remember, everything you share is confidential and will not be shared with your employer.",
+    "workLocationQuestion": "Which McDonald's do you work at?",
+    "workLocationHint": "Search by city or zip code",
+    "currentPositionQuestion": "What's your current job title?",
+    "currentPositionHint": "Select your current job title"
+  },
+  "educationList": {
+    "lessHighSchool": "Less than High School",
+    "someHighSchool": "Some High School",
+    "hsDiploma": "HS Diploma/GED/HiSet",
+    "vocationalCert": "Vocational Certificate",
+    "someCollege": "Some College",
+    "associateCollege": "Associate College",
+    "bachelorCollege": "Bachelor's College",
+    "masterDegree": "Master's Degree",
+    "phD": "Doctorate/Ph.D",
+    "cert": "Certification"
+  },
+  "jobTitle": {
+    "areaSup": "Area Supervisor",
+    "crewMem": "Crew Member",
+    "crewTrainer": "Crew Trainer",
+    "departmentManager": "Department Manager",
+    "franchisePartner": "Franchise Business Partner",
+    "generalManager": "General Manager",
+    "guestExpLead": "Guest Experience Lead",
+    "maintenance": "Maintenance",
+    "operationAssociate": "Operations Associate",
+    "operationAssociateLead": "Operations Associate Lead",
+    "operationDeployConsultant": "Operations Deployment Consultant",
+    "operationDeployManager": "Operations Deployment Manager"
+  },
+  "yes": "Yes",
+  "no": "No",
+  "cancel": "Cancel",
+  "ok": "ok",
+  "termOfService": "Term of Services",
+  "privacyPrivacy": "Privacy Policy.",
+  "createAnAccount": "Create an account",
+  "createAnAccountDesc": "to get career matches",
+  "registerAction": "Register",
+  "initialMainScreen": {
+    "createAccountTo": "Create an account to ",
+    "initialInterestDesc": "save careers that interest you.",
+    "initialGoalDesc": "access more career and education resources.",
+    "initialChatDesc": "access Kai,\nour digital guide-bot.",
+    "initialNotificationDesc": "access helpful tips and reminder."
+  }
+}
