@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "346949748326",
+    "firebase_url": "https://vivu-1599483786493.firebaseio.com",
+    "project_id": "vivu-1599483786493",
+    "storage_bucket": "vivu-1599483786493.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346949748326:android:41b8a8edccb69287038fa7",
+        "android_client_info": {
+          "package_name": "com.example.testproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346949748326-jj3k7dqj9e0777eqklcb43cvcplai7dn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testproject",
+            "certificate_hash": "25c2e3a7d4c1db12500998b748e47a37682d1c8b"
+          }
+        },
+        {
+          "client_id": "346949748326-4j7dtnnp0een2atv1dv27logjt56j9q9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOxiMm9wpa01qLmQ3Ar-iiqj7iiFGIH48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346949748326-4j7dtnnp0een2atv1dv27logjt56j9q9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "346949748326-dpdsei9uh2gnj7spevd3k5pm88v2bb9m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "adwawdwa.dgfdsf"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

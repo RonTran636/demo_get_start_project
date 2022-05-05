@@ -74,6 +74,18 @@ dev_dependencies:
 # following page: https://dart.dev/tools/pub/pubspec
 
 # The following section is specific to Flutter.
+flutter_gen:
+  output: lib/resources/
+  line_length: 80
+
+  assets:
+    enabled: true
+    # Assets.imagesChip
+    style: camel-case
+    # Optional
+  integrations:
+    flutter_svg: true
+
 flutter:
 
   # The following line ensures that the Material Icons font is
@@ -104,6 +116,22 @@ flutter:
   #       - asset: fonts/Schyler-Regular.ttf
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
+  fonts:
+    - family: Speedee
+      fonts:
+        - asset: assets/fonts/Speedee_A_Rg.ttf
+        - asset: assets/fonts/Speedee_A_It.ttf
+          style: italic
+        - asset: assets/fonts/Speedee_A_Bd.ttf
+          weight: 700
+        - asset: assets/fonts/Speedee_A_BdIt.ttf
+          style: italic
+          weight: 700
+        - asset: assets/fonts/Speedee_A_Lt.ttf
+          weight: 300
+        - asset: assets/fonts/Speedee_A_LtIt.ttf
+          style: italic
+          weight: 300
   #   - family: Trajan Pro
   #     fonts:
   #       - asset: fonts/TrajanPro.ttf

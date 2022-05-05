@@ -4,13 +4,14 @@ A quick view for starting up the project
 
 ## Getting Started
 
-###1. Choosen state management: GetX
+###1. Chosen state management: GetX
 
 ###2. Setting up project:
   - For fast generate assets file, I created a shorcut to run it. Everytime new assets added, run `./generated_build.sh`.
   - For generate string, after add string to `assets/translation/en-US` , run the command above.
 
 ###3. Setting up flavor to run:
+  - Referral link: `https://medium.com/@animeshjain/build-flavors-in-flutter-android-and-ios-with-different-firebase-projects-per-flavor-27c5c5dac10b`
   - For Android Studio users: edit on `Edit Configuration`, choose entry point match with the flavor you want, add into flavor field chosen flavor.
   - For Visual Studio Code user: create a file in `.vscode/launch.json` and config like below
   ```
